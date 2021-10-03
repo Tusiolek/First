@@ -1,0 +1,71 @@
+* {
+	
+	margin-right: 80px;
+	margin-left: 80px;
+
+
+}
+body {
+	background-image:url(milky.jpg);
+	background-size: cover;
+	color:#e6cab5;
+}
+h1 {
+	text-transform: capitalize;
+	text-align: left;
+	border-bottom: solid #e6cab5;
+	border-radius: 5px;
+	border-right: solid #e6cab5;
+	display: inline-block;
+	padding: 20px;
+	/*color:#e6cab5;*/
+}
+h4 {
+	border: solid #e6cab5;
+	border-radius: 5px;
+	border-bottom: 0px;
+	padding: 10px;
+	margin: 20px;
+	display: inline-block;
+	font-family: cursive;
+
+}
+p {
+	text-align: left;
+	display: inline-block;
+	font-family: 'Times New Roman';
+	font-size: 18px;
+
+}
+
+.hover {
+	color: #e6cab5;
+}
+img {
+	width: 230px;
+	height: 200px;
+	display: inline-block;
+}
+h4.data {
+	
+	text-align: right;
+	/*color: #e6cab5;*/
+}
+p.moody {
+	text-align: justify;
+	/*color: #33cccc;*/
+	border-color: #e6cab5;
+	border-style: solid;
+	border-radius: 5px;
+	padding: 20px;
+	margin: 30px;
+	font-size: 20px;
+	font-family: cursive;
+
+
+}
+ul {
+	list-style: none;
+	font-family: "Times New Roman";
+	display: inline-block;
+}
